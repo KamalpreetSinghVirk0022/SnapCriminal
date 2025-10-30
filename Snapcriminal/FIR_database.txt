@@ -1,0 +1,21 @@
+Crime: 
+Crime Time: 12:05
+Crime Date: 12 june 2023
+Reason: theft
+Nearby Landmark: mohali
+Nearby Police Station (SHO): 6 phase
+
+Crime: 
+Crime Time: 12:00pm
+Crime Date: 09/09/2024
+Reason: Theft
+Nearby Landmark: cp67
+Nearby Police Station (SHO): mohali
+
+Crime: 
+Crime Time: 10:00
+Crime Date: 7/11/2024
+Reason: Theft
+Nearby Landmark: Water Tank Saneta
+Nearby Police Station (SHO): Sohana
+
